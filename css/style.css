@@ -1,11 +1,13 @@
 *{
-    font-family: 'Roboto', sans-serif;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
+body{
+     background: #000718;
+     font-family: 'Roboto', sans-serif;
+}
 #section-wrapper{
-    background: #000718;
     width: 100%;
     height: 100vh;
     padding:30px;
